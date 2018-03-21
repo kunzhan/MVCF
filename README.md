@@ -1,14 +1,16 @@
 We appreciate it if you cite the following paper:
 
+```
 @Article{NECOzhan2017,
   author =  {K. Zhan and J. Shi and J. Wang and H. Wang and Y. Xie},
-  title =   {Adaptive structure concept factorization for multi-view clustering},
+  title =   {Adaptive structure concept factorization for multiview clustering},
   journal = {Neural Computation},
-  year =    {2017},
-  volume =  {PP},
-  number =  {99},
-  pages =   {pp},
+  year =    {2018},
+  volume =  {30},
+  number =  {4},
+  pages =   {1080--1103},
 }
+```
 
 http://www.escience.cn/people/kzhan
 
